@@ -1,1 +1,1 @@
-# SK_slo_paper
+# SK_Slo_paper
